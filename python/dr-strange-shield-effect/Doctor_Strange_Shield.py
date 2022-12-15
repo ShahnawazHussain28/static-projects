@@ -1,6 +1,9 @@
 ##################### Doctor Strange Shield Effect ###########################
 ########--------------Created by Shahnawaz Hussain-----------------###########
 
+
+## pip install opencv-python, cvzone, numpy ##
+
 import math
 import cv2
 from cvzone.HandTrackingModule import HandDetector
